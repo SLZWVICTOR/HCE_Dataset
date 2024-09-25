@@ -1,4 +1,4 @@
-# HCE Dataset
+# Introduction of HCE Dataset
 
 The HCE (Hangzhou-Changsha Electrocardiogram) dataset is a comprehensive electrocardiogram dataset collected by our research team in Changsha, Hunan, and Hangzhou, Zhejiang, China. The data collection protocol required each participant to adopt three distinct postures—standing, sitting, and lying—each maintained for a minimum of 60 seconds. A total of 76 volunteers participated in the ECG signal acquisition, comprising 39 males and 37 females. The participants' ages ranged from 19 to 94 years, encompassing 45 young adults (aged 34 years and below), 26 middle-aged adults (aged 35 to 59 years), and 5 elderly individuals (aged 60 years and above).
 
